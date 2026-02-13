@@ -20,7 +20,7 @@ migrations_dir = "migrations"
 [[kv_namespaces]]
 binding = "KV_CACHE"
 # Filled by CI / your first deployment bootstrap.
-id = "7c18ffe9d12e4eb6808723f85f842c91"
+id = "235516cbb5f749afacb9fe64182daf31"
 
 # Durable Objects migrations history:
 # - do-v1 created AutoRegisterJob (now removed)
