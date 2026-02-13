@@ -18,7 +18,7 @@ database_id = "7468250a-6f7c-469a-9999-f50f8455959a"
 migrations_dir = "migrations"
 
 [[kv_namespaces]]
-binding = "grok2api-cache"
+binding = "KV_CACHE"
 # Filled by CI / your first deployment bootstrap.
 id = "235516cbb5f749afacb9fe64182daf31"
 
